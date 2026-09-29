@@ -17,6 +17,8 @@ def oppgave_1c():
 
 def oppgave_1e():
     """Simuler populasjonsmodellen frem til dag 300."""
+
+    
     pass
 
 
